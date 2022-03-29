@@ -1,0 +1,186 @@
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\bin\Debug\space invader.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\bin\Debug\space invader.exe
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\bin\Debug\space invader.pdb
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\obj\Debug\space_invader.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\obj\Debug\space_invader.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\obj\Debug\space invader.exe
+c:\users\admin\documents\visual studio 2015\Projects\space invader\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\space invader\space invader\bin\Debug\space invader.exe.config
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space invader.exe
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\space invader\space invader\bin\Debug\space invader.exe
+C:\Users\admin\Desktop\space invader\space invader\bin\Debug\space invader.pdb
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+F:\space invader\space invader\bin\Debug\space invader.exe.config
+F:\space invader\space invader\obj\Debug\space invader.exe
+F:\space invader\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\space invader\space invader\bin\Debug\Form1.resx
+C:\Users\admin\Desktop\space invader\space invader\bin\Debug\Form1.cs
+C:\Users\admin\Desktop\space invader\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\admin\Desktop\space invader\space invader\obj\Debug\space_invader.Form2.resources
+F:\Space invader2.0\space invader\bin\Debug\Form1.resx
+F:\Space invader2.0\space invader\bin\Debug\Form1.cs
+F:\Space invader2.0\space invader\bin\Debug\Form1.Designer.cs
+F:\Space invader2.0\space invader\bin\Debug\space invader.exe.config
+F:\Space invader2.0\space invader\bin\Debug\space invader.exe
+F:\Space invader2.0\space invader\bin\Debug\space invader.pdb
+F:\Space invader2.0\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+F:\Space invader2.0\space invader\obj\Debug\space_invader.Form1.resources
+F:\Space invader2.0\space invader\obj\Debug\space_invader.Form2.resources
+F:\Space invader2.0\space invader\obj\Debug\space_invader.Properties.Resources.resources
+F:\Space invader2.0\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+F:\Space invader2.0\space invader\obj\Debug\space invader.exe
+F:\Space invader2.0\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader2.0\space invader\bin\Debug\space invader.exe.config
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader2.0\space invader\bin\Debug\Form1.resx
+C:\Users\admin\Desktop\Space invader2.0\space invader\bin\Debug\Form1.cs
+C:\Users\admin\Desktop\Space invader2.0\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\admin\Desktop\Space invader2.0\space invader\bin\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader2.0\space invader\bin\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\admin\Desktop\Space invader2.0\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\bin\Debug\Form1.resx
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\bin\Debug\Form1.cs
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\bin\Debug\space invader.exe.config
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\bin\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\bin\Debug\space invader.pdb
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space invader.csproj.CoreCompileInputs.cache
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader3.0\space invader\obj\Debug\space invader.pdb
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\Form1.resx
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\Form1.cs
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\space invader.exe.config
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\space invader.exe
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\space invader.pdb
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.csproj.CoreCompileInputs.cache
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.exe
+C:\Users\informatica\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\space invader.exe.config
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\Form1.resx
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\Form1.cs
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\bin\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\admin\Desktop\Space invader3.0 comentareado\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\bin\Debug\Form1.resx
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\bin\Debug\Form1.cs
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\bin\Debug\space invader.exe.config
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\bin\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\bin\Debug\space invader.pdb
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space invader.csproj.CoreCompileInputs.cache
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader 4.0 comentareado\space invader\obj\Debug\space invader.pdb
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\bin\Debug\Form1.resx
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\bin\Debug\Form1.cs
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\bin\Debug\space invader.exe.config
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\bin\Debug\space invader.exe
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\bin\Debug\space invader.pdb
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space invader.exe
+C:\Users\informatica\Desktop\Space invader 4.0 comentareado + dudas\space invader\obj\Debug\space invader.pdb
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\bin\Debug\Form1.resx
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\bin\Debug\Form1.cs
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\bin\Debug\space invader.exe.config
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\bin\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\bin\Debug\space invader.pdb
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space invader.csproj.CoreCompileInputs.cache
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader 5.0\space invader\obj\Debug\space invader.pdb
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\Form1.resx
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\Form1.cs
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\space invader.exe.config
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\space invader.pdb
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.csproj.CoreCompileInputs.cache
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.exe
+C:\Users\JNYGM03\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\space invader.exe.config
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\Form1.resx
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\Form1.cs
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\bin\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\admin\Desktop\Space invader 6.0 solucionado\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\bin\Debug\space invader.exe.config
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\bin\Debug\Form1.resx
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\bin\Debug\Form1.cs
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\bin\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\bin\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\admin\Desktop\Space invader 7.0 solucionado\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Space invader final\space invader\bin\Debug\space invader.exe.config
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space invader.pdb
+C:\Users\admin\Desktop\Space invader final\space invader\bin\Debug\Form1.resx
+C:\Users\admin\Desktop\Space invader final\space invader\bin\Debug\Form1.cs
+C:\Users\admin\Desktop\Space invader final\space invader\bin\Debug\Form1.Designer.cs
+C:\Users\admin\Desktop\Space invader final\space invader\bin\Debug\space invader.exe
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space invader.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space_invader.Form1.resources
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space_invader.Form2.resources
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space_invader.Properties.Resources.resources
+C:\Users\admin\Desktop\Space invader final\space invader\obj\Debug\space invader.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Space invader final\space invader\bin\Debug\space invader.pdb

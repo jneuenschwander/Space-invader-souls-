@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="space_invader.Alien">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAACBAAIAgUBAAAAAQAAAAAQAAIAEBgAAAAAAA=</HashCode>
+      <FileName>Alien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="space_invader.Disparo">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAABCAAAAQAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Disparo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="space_invader.Nivel">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAIAAAAAAAAAAAAAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Nivel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="space_invader.Nave">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAABAAAgAQAAAAAQAAIBEAgQAQAAAg=</HashCode>
+      <FileName>Nave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="space_invader.Roca">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Roca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="space_invader.Corazon">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Corazon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="space_invader.Teclas">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAIAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>teclas.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

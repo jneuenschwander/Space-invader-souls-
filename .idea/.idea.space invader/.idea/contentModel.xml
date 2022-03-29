@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Juan Neuenschwander\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Juan Neuenschwander\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_space invader.-664434285.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Juan Neuenschwander\Desktop\Space invader final" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="space invader" t="IncludeRecursive">
+        <e p="Alien.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Corazon.cs" t="Include" />
+        <e p="Diagrama1.cd" t="Include" />
+        <e p="Disparo.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form2.cs" t="Include" />
+        <e p="Form2.Designer.cs" t="Include" />
+        <e p="Form2.resx" t="Include" />
+        <e p="Nave.cs" t="Include" />
+        <e p="Nivel.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Alien1.gif" t="Include" />
+          <e p="boss.png" t="Include" />
+          <e p="clash2.png" t="Include" />
+          <e p="Full Metal Alchemist OST 1 - Invasion.wav" t="Include" />
+          <e p="game over.jpg" t="Include" />
+          <e p="ganaste.jpg" t="Include" />
+          <e p="muro al borde de la muerte.png" t="Include" />
+          <e p="muro con un golpe.png" t="Include" />
+          <e p="muro despues de varios golpes.png" t="Include" />
+          <e p="muro destruido.png" t="Include" />
+          <e p="nave.png" t="Include" />
+          <e p="nave2.png" t="Include" />
+          <e p="pixil-gif-drawing.gif" t="Include" />
+          <e p="shot.png" t="Include" />
+          <e p="space_invaders escudo.jpg" t="Include" />
+          <e p="spaceinvaderslogo.png" t="Include" />
+          <e p="tron grib.gif" t="Include" />
+        </e>
+        <e p="Roca.cs" t="Include" />
+        <e p="space invader.csproj" t="IncludeRecursive" />
+        <e p="teclas.cs" t="Include" />
+      </e>
+      <e p="space invader.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
